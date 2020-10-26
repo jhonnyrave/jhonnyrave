@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhonnyrave&label=Profile%20views&color=0e75b6&style=flat" alt="jhonnyrave" /> </p>
 
 
-- 🔭 I’m currently working on [Podcast channel](https://github.com/jhonnyrave/JhonnyRave.github.io)
+- 🔭 I’m currently working on [Proyecto Gifos](https://github.com/jhonnyrave/proyecto_gifos)
 
 - 🌱 I’m currently learning **Nodejs**
 
